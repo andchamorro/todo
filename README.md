@@ -4,6 +4,7 @@ A Simple TODOs management.
 ## Installation
 cp todo ~/.local/bin/.
 ## Usage
+---
 ```bash
 todo [OPTIONS] [ARG]
  OPTIONS
@@ -11,6 +12,7 @@ todo [OPTIONS] [ARG]
   -d --delete  Delete task in line
   -v --verbose Show current todo task
   -h --help    Display this help and exit```
+---
 ## License
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
