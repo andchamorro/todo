@@ -14,7 +14,8 @@ todo [OPTIONS] [ARG]
   -a --add     Adds a new todo task 
   -d --delete  Delete task in line
   -v --verbose Show current todo task
-  -h --help    Display this help and exit```
+  -h --help    Display this help and exit
+```
 ---
 
 ## License
