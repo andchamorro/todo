@@ -1,10 +1,13 @@
 Todo
 =========================================================
 A Simple TODOs management.
+---
+
 ## Installation
 cp todo ~/.local/bin/.
-## Usage
 ---
+
+## Usage
 ```bash
 todo [OPTIONS] [ARG]
  OPTIONS
@@ -13,6 +16,7 @@ todo [OPTIONS] [ARG]
   -v --verbose Show current todo task
   -h --help    Display this help and exit```
 ---
+
 ## License
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
